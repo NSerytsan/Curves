@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Curves</string>
+    <string name="text1">Введення коефіцієнтів:</string>
+
+    <string-array name="choises">
+        <item>Еліпс</item>
+        <item>Парабола</item>
+        <item>Гіпербола</item>
+    </string-array>
+</resources>
